@@ -3,4 +3,6 @@
 }
 .person{
   display: inline-block;
+  width: 33vw;
+  vertical-align: top;
 }
